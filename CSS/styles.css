@@ -1,0 +1,71 @@
+.Top-container{
+    background-color: #95BDFF;
+}
+body{
+    margin: 0;
+    text-align: center;
+    position: relative;
+    size: 75px;
+}
+.first-heading{
+    margin: 0;
+    font-family: cursive,'Sacramento';
+padding-top: 100px;
+  color: red;
+  font-size: 75px;
+}
+p{
+    margin: 0;
+}
+.Middle-container{
+    background-color: #B4E4FF;
+    
+    width: 100%;
+}
+.Bottom-container{
+    background-color: #BFDCE5;
+    
+    width: 100%;
+}
+.bottom-cloud{
+    position: absolute;
+}
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    top: 200px;
+}
+.pfp{
+    padding-top: 50px;
+}
+.para1{
+    color: yellow;
+    font-size: 50px;
+
+}
+h3{
+    color: darkgreen;
+}
+.para2{
+    color: chocolate;
+    font-size: large;
+}
+.para4{
+    color: chocolate;
+    font-size: large;
+}
+.skills2{
+    height: 277px;
+    width: 531px;
+}
+hr{
+    margin: 0;
+    width: 5%;
+    color: darkgray;
+    border-style: none;
+    border-top-style: dotted;
+}
+.fourth-containe{
+    background-color: #146C94;
+    width: 100%;
+}
